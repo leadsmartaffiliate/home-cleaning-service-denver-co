@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home-cleaning-service-denver-co.netlify.app/sitemap.xml
